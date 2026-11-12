@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name     Unnamed Script 191752
+// @name     insta-seek-bar
 // @version  1
 // @match    <all_urls>
 // @grant    none
